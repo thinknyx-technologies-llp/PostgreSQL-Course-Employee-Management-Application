@@ -1,3 +1,8 @@
+# Employee-Management-Application
+
+![EmployeeManagementApplication](https://socialify.git.ci/thinknyx-technologies-llp/PostgreSQL-Course-Employee-Management-Application/image?font=KoHo&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2821%2F2821656.png&name=1&pattern=Plus&theme=Auto)
+
+
 # Project Setup Guide
 
 This guide will walk you through setting up the complete project with backend, frontend, and database components.
